@@ -1,8 +1,5 @@
 #!/system/bin/sh
 ###########################################################
-# Copyright (C) 2016 Jared Rummler
-# Licensed under GPLv3
-# 
 # DESCRIPTION
 #   List apps which are using multidex
 # 

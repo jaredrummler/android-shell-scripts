@@ -1,11 +1,12 @@
 #!/system/bin/sh
 ###########################################################
-# Copyright (C) 2016 Jared Rummler
-# Licensed under GPLv3
-# 
-# DESCRIPTION
+# DESCRIPTION:
 #   Remount a file system on Android
-# 
+#
+# PARAMETERS:
+#   param1: the file system (default is "/system")
+#   param2: the mount option (default is "rw")
+#
 
 ###########################################################
 # FUNCTIONS
