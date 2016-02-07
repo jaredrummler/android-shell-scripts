@@ -1,5 +1,5 @@
 #!/system/bin/sh
-###########################################################
+########################
 # DESCRIPTION:
 #   Restart com.android.systemui
 #

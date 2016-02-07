@@ -1,5 +1,5 @@
 #!/system/bin/sh
-###########################################################
+########################
 # DESCRIPTION
 #   List apps which are using multidex
 # 
